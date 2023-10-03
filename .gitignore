@@ -7,7 +7,7 @@
 logs
 **/*.backup.*
 **/*.back.*
-
+.env.local
 node_modules
 bower_components
 
